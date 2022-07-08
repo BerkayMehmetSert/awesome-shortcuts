@@ -1,4 +1,4 @@
-# Adobe Illustrator <br/> Shortcuts
+# Adobe Illustrator Shortcuts
 
 <img src="../assets/adobe-illustrator-icon.svg" alt="Adobe Illustrator" height="96" />
 
